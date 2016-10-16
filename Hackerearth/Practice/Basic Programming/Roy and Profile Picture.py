@@ -1,3 +1,4 @@
+#LINK - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/
 l = int(input())
 if( l<1 or l>10000 ) :
 	sys.exit(0)
@@ -14,6 +15,4 @@ while( n>0 ) :
 			print("ACCEPTED")
 		elif( w>l or h>l ) :
 			print("CROP IT")
-	print("\n")
 	n=n-1
-
