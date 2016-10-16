@@ -2,7 +2,7 @@
  
  This repository is solely dedicated for the collection of codes of **practice problems/classsical problems (only) that may not affect a users ranking** of popular coding sites such at spoj, topcoder, hackerearth, codechef, etc.
 
- *Also* ***DO NOT*** *provide your code if you hold some kind of record like best submission on that piece of code.*
+ *Also* ***DO NOT*** *provide your code if you hold some kind of record like best submission,etc. on that piece of code.*
 
  *Format of Naming of Codes must be as follows:-*
 
