@@ -6,12 +6,12 @@
 
  *Format of Naming of Codes must be as follows:-*
 
- > Each problem can be uniquely identified.
+ > Each problem must be uniquely identified.
   
   For Example the classical problems of SPOJ have an ID number.
 
    so the code must be name as:
- >> prog<ID>.extension i.e. prog1.c or prog1.cpp or whatever language you are using.
+ >> prog[ID].extension i.e. prog1.c or prog1.cpp or whatever language you are using.
 
  >>**The first line in the code must be a comment to the link of the question.**
 
